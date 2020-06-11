@@ -1,0 +1,9 @@
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Release\ProjetoModeloDDD.Aplicacao.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Release\ProjetoModeloDDD.Aplicacao.pdb
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Release\ProjetoModeloDDD.Dominio.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\bin\Release\ProjetoModeloDDD.Dominio.pdb
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Release\ProjetoModeloDDD.Aplicacao.csprojAssemblyReference.cache
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Release\ProjetoModeloDDD.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Release\ProjetoModeloDDD.Aplicacao.csproj.CopyComplete
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Release\ProjetoModeloDDD.Aplicacao.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Aplicacao\obj\Release\ProjetoModeloDDD.Aplicacao.pdb

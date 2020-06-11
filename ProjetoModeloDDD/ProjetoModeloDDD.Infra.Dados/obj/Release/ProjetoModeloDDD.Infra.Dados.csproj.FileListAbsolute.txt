@@ -1,0 +1,14 @@
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\ProjetoModeloDDD.Infra.Dados.dll.config
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\ProjetoModeloDDD.Infra.Dados.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\ProjetoModeloDDD.Infra.Dados.pdb
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\EntityFramework.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\ProjetoModeloDDD.Dominio.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\ProjetoModeloDDD.Dominio.pdb
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\EntityFramework.xml
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\obj\Release\ProjetoModeloDDD.Infra.Dados.csprojAssemblyReference.cache
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\obj\Release\ProjetoModeloDDD.Infra.Dados.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\obj\Release\ProjetoModeloDDD.Infra.Dados.csproj.CopyComplete
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\obj\Release\ProjetoModeloDDD.Infra.Dados.dll
+C:\Users\leonardo\Documents\Labs\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Dados\obj\Release\ProjetoModeloDDD.Infra.Dados.pdb
